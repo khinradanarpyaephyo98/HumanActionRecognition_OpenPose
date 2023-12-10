@@ -23,13 +23,12 @@ Currently , the simple classifier model is used. This project has the labelled d
 python openpose.py
 ```
 
+
+
+- Test with pre-stored video
+
+```
+python openpose.py --input image.jpg 
 ```
 
-- Use `--thr` to increase confidence threshold
-
-```
-python openpose.py --input image.jpg --thr 0.5
-```
-
-# Notes:
 
